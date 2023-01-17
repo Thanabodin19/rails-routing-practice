@@ -1,0 +1,21 @@
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/hitimes-1.2.6/ext/hitimes/c
+/home/tkeawmaha/.rbenv/versions/2.6.6/bin/ruby -I /home/tkeawmaha/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20230117-355737-1r0j1xa.rb extconf.rb
+checking for clock_gettime() in -lrt... yes
+creating Makefile
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/hitimes-1.2.6/ext/hitimes/c
+make "DESTDIR=" clean
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/hitimes-1.2.6/ext/hitimes/c
+make "DESTDIR="
+compiling hitimes.c
+compiling hitimes_instant_clock_gettime.c
+compiling hitimes_instant_osx.c
+compiling hitimes_instant_windows.c
+compiling hitimes_interval.c
+compiling hitimes_stats.c
+linking shared-object hitimes/2.6/hitimes.so
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/hitimes-1.2.6/ext/hitimes/c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 hitimes.so ./.gem.20230117-355737-1852vkm/hitimes/2.6

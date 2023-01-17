@@ -1,0 +1,16 @@
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+/home/tkeawmaha/.rbenv/versions/2.6.6/bin/ruby -I /home/tkeawmaha/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20230117-355737-44sc52.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make "DESTDIR=" clean
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make "DESTDIR="
+compiling gherkin_lexer_zh_tw.c
+linking shared-object gherkin_lexer_zh_tw.so
+
+current directory: /home/tkeawmaha/Ruby/rails-routing-practice/vendor/bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 gherkin_lexer_zh_tw.so ./.gem.20230117-355737-8dz0oq
