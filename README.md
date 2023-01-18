@@ -12,6 +12,6 @@ Run by the application useing the command below:
 `bundle exec rackup`
 
 You can view the application URL in your web browser:
-`http://localhost`
+`http://localhost:9292`
 
 Everything here is [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
